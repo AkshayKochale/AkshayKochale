@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Mircroservies and Messaging Queue**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AkshayKochale/Portfolio](https://github.com/AkshayKochale/Portfolio)
+- 👨‍💻 All of my projects are available at [https://akshaykochale.github.io/Portfolio/](https://akshaykochale.github.io/Portfolio/)
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **akshaykochale78@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/AkshayKochale/Portfolio](https://github.com/AkshayKochale/Portfolio)
+- 📄 Know about my experiences [https://akshaykochale.github.io/Portfolio/](https://akshaykochale.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
