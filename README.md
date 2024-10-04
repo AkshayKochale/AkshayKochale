@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Kochale</h1>
-<h3 align="center">A passionate developer from India</h3>
-
+<h3 align="center">A passionate SoftWare Developer from India</h3>
 - 🔭 I’m currently working on [ZapMsg Project](https://github.com/AkshayKochale/ZapMsgSpring)
 
 - 🌱 I’m currently learning **Mircroservies and Messaging Queue**
