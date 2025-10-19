@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Python ,AI ,ML**<br><br>- 👨‍💻 All of my projects are available at [https://akshaykochale.github.io/Portfolio/](https://akshaykochale.github.io/Portfolio/)<br><br>- 📫 How to reach me **akshaykochale78@gmail.com**
+- 🌱 I’m currently learning **Python, AI, ML**<br><br>- 👨‍💻 All of my projects are available at [https://akshaykochale.github.io/Portfolio/](https://akshaykochale.github.io/Portfolio/)<br><br>- 📫 How to reach me **akshaykochale78@gmail.com**
 
 
 ## 🌐 Socials:
